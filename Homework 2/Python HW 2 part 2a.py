@@ -20,7 +20,23 @@
 # I strongly suggest that you practice using a debugger for this so you can run your code 
 # line by line, see where it jumps to and what variable values are. See HCI 574 lecture 14 for info
 # or look at the HCI 54 lecture 1 addendum pdf.
+#guess_is_wrong = True  # bool flag you can use loop other your while block as long as it's True
 
 import random
+
+winner = 0
 my_secret_number = random.randint(1, 10)
-#guess_is_wrong = True  # bool flag you can use loop other your while block as long as it's True
+print("Guess a number! (1-10)")
+
+while not(winner):
+
+    guess = input()
+    guess = int(guess)
+
+    if guess == my_secret_number:
+        print("You Got it!  It was:",my_secret_number)
+        winner = 1
+    else:
+        print(guess,"isn't right.")
+
+

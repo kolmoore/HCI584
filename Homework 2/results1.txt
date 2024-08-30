@@ -1,0 +1,11 @@
+charding@iastate.edu Email Seems Legit
+chris.edu - error: Must have 3 parts: address@domain.suffix, error code: 1
+chris@edu - error: Must have 3 parts: address@domain.suffix, error code: 1
+@bla.edu - error: Must have 3 parts: address@domain.suffix, error code: 1
+throatwobblermangrove@mpfc.org - error: Address must have between 3 and 16 chars., error code: 3
+chris@X.com - error: Domain must have between 2 and 8 chars., error code: 5
+chris.harding@iastate.edu - error: Address must have alpha numeric chars., error code: 2
+chris@pymart.biz - error: Suffix must be one of these:  com edu org gov, error code: 6
+chris@letsgo!.org - error: Domain must have alpha numeric chars., error code: 4
+chris@megasavings.org - error: Domain must have between 2 and 8 chars., error code: 5
+tc@tank.com - error: Address must have between 3 and 16 chars., error code: 3
