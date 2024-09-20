@@ -1,0 +1,304 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 60,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "oOBwBgAAQBAJ",
+      "etag": "gms8kykce4s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oOBwBgAAQBAJ",
+      "volumeInfo": {
+        "title": "I Wish You More",
+        "authors": [
+          "Amy Krouse Rosenthal"
+        ],
+        "publisher": "Chronicle Books",
+        "publishedDate": "2015-03-31",
+        "description": "The #1 New York Times bestselling children's book Amy Krouse Rosenthal and Tom Lichtenheld have combined their extraordinary talents to create an inspirational book that's full of endless good wishes. Wishes for curiosity and wonder, for friendship and strength, laughter and peace. Whether celebrating life's joyous milestones, sharing words of encouragement, or observing the wonder of everyday moments, this sweet book is for wishers of all ages! I Wish You More is the perfect graduation gift as well as a must-have, uplifting read sure to bring positivity to all who read it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781452150376"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1452150370"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 37,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oOBwBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oOBwBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oOBwBgAAQBAJ&printsec=frontcover&dq=inauthor:%22Amy+Krouse+Rosenthal%22+%2Bintitle:%22I+Wish+You+More%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oOBwBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oOBwBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oOBwBgAAQBAJ&rdid=book-oOBwBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 11990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/I_Wish_You_More-sample-epub.acsm?id=oOBwBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/I_Wish_You_More-sample-pdf.acsm?id=oOBwBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oOBwBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whether celebrating life&#39;s joyous milestones, sharing words of encouragement, or observing the wonder of everyday moments, this sweet book is for wishers of all ages!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Aj5PmdX720IC",
+      "etag": "5tRlJqbjGnA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Aj5PmdX720IC",
+      "volumeInfo": {
+        "title": "Yes Day!",
+        "authors": [
+          "Amy Krouse Rosenthal"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2011-03-01",
+        "description": "Soon to be a Netflix Film in March 2021! From the New York Times bestselling creators of I Wish You More, Amy Krouse Rosenthal and Tom Lichtenheld, a funny look at the one day of the year that can compete with Christmas for children's affection: YES DAY! No matter how silly the request, there is one day a year when kids always receive a positive response: Can I have pizza for breakfast? YES! Can we have a food fight? YES! Can I stay up really late? YES! The simple text coupled with delightful illustrations will send kids on a journey into their wildest wishes. With humor and appreciation for life's little pleasures, Yes Day! captures the excitement of being a kid. Jennifer Garner uses Yes Day! as inspiration for an annual magical day of all things YES with her children. She was a little worn out after 24 hours of pure YES in 2017, but she still praised Yes Day! as \"a fantastic children's book.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061965272"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0061965278"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Aj5PmdX720IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Aj5PmdX720IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Aj5PmdX720IC&printsec=frontcover&dq=inauthor:%22Amy+Krouse+Rosenthal%22+%2Bintitle:%22I+Wish+You+More%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Aj5PmdX720IC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Aj5PmdX720IC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Aj5PmdX720IC&rdid=book-Aj5PmdX720IC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Yes_Day-sample-epub.acsm?id=Aj5PmdX720IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Yes_Day-sample-pdf.acsm?id=Aj5PmdX720IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Aj5PmdX720IC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "YES! The simple text coupled with delightful illustrations will send kids on a journey into their wildest wishes. With humor and appreciation for life&#39;s little pleasures, Yes Day! captures the excitement of being a kid."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I7XSDwAAQBAJ",
+      "etag": "XVSgowBOV7E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I7XSDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Moo-Moo, I Love You!",
+        "authors": [
+          "Tom Lichtenheld",
+          "Amy Krouse Rosenthal"
+        ],
+        "publisher": "Abrams",
+        "publishedDate": "2020-09-22",
+        "description": "From the bestselling team behind I Wish You More comes a moo-ving ode to the love between parent and child—now in board book The New York Times bestselling pair Tom Lichtenheld and Amy Krouse Rosenthal present udderly perfect expressions of affection to share between any cow and calf: I love you no matter your moo-d. I love giving you a big s-moo-ch. My love for you is as big as . . . a MOO-SE! With a universal message and warm, funny text that families will read and reread together, this exuberant book from two children’s book superstars at their best is a moo-velous choice for gifts year-round, especially for fans of I Love You to the Moon and Back and Guess How Much I Love You.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781647001506"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1647001501"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=I7XSDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=I7XSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=I7XSDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Amy+Krouse+Rosenthal%22+%2Bintitle:%22I+Wish+You+More%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=I7XSDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=I7XSDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.09,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.09,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=I7XSDwAAQBAJ&rdid=book-I7XSDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8090000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8090000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Moo_Moo_I_Love_You-sample-epub.acsm?id=I7XSDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Moo_Moo_I_Love_You-sample-pdf.acsm?id=I7XSDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I7XSDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "My love for you is as big as . . . a MOO-SE! With a universal message and warm, funny text that families will read and reread together, this exuberant book from two children’s book superstars at their best is a moo-velous choice for gifts ..."
+      }
+    }
+  ]
+}
+
