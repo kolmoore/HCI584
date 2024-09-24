@@ -1,11 +1,11 @@
 {
   "kind": "books#volumes",
-  "totalItems": 60,
+  "totalItems": 61,
   "items": [
     {
       "kind": "books#volume",
       "id": "oOBwBgAAQBAJ",
-      "etag": "gms8kykce4s",
+      "etag": "uMU98Y2d8CQ",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/oOBwBgAAQBAJ",
       "volumeInfo": {
         "title": "I Wish You More",
@@ -36,7 +36,7 @@
         ],
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": true,
-        "contentVersion": "1.5.4.0.preview.3",
+        "contentVersion": "1.7.5.0.preview.3",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
@@ -55,11 +55,11 @@
         "saleability": "FOR_SALE",
         "isEbook": true,
         "listPrice": {
-          "amount": 11.99,
+          "amount": 10.99,
           "currencyCode": "USD"
         },
         "retailPrice": {
-          "amount": 11.99,
+          "amount": 10.99,
           "currencyCode": "USD"
         },
         "buyLink": "https://play.google.com/store/books/details?id=oOBwBgAAQBAJ&rdid=book-oOBwBgAAQBAJ&rdot=1&source=gbs_api",
@@ -67,11 +67,11 @@
           {
             "finskyOfferType": 1,
             "listPrice": {
-              "amountInMicros": 11990000,
+              "amountInMicros": 10990000,
               "currencyCode": "USD"
             },
             "retailPrice": {
-              "amountInMicros": 11990000,
+              "amountInMicros": 10990000,
               "currencyCode": "USD"
             },
             "giftable": true
@@ -103,7 +103,7 @@
     {
       "kind": "books#volume",
       "id": "Aj5PmdX720IC",
-      "etag": "5tRlJqbjGnA",
+      "etag": "hBYkUO8gDBA",
       "selfLink": "https://www.googleapis.com/books/v1/volumes/Aj5PmdX720IC",
       "volumeInfo": {
         "title": "Yes Day!",
@@ -202,80 +202,58 @@
     },
     {
       "kind": "books#volume",
-      "id": "I7XSDwAAQBAJ",
-      "etag": "XVSgowBOV7E",
-      "selfLink": "https://www.googleapis.com/books/v1/volumes/I7XSDwAAQBAJ",
+      "id": "X5TEDgAAQBAJ",
+      "etag": "Gu3tUHcJRK0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X5TEDgAAQBAJ",
       "volumeInfo": {
-        "title": "Moo-Moo, I Love You!",
+        "title": "On the Spot",
+        "subtitle": "Countless Funny Stories",
         "authors": [
-          "Tom Lichtenheld",
-          "Amy Krouse Rosenthal"
+          "Amy Krouse Rosenthal",
+          "Lea Redmond"
         ],
-        "publisher": "Abrams",
-        "publishedDate": "2020-09-22",
-        "description": "From the bestselling team behind I Wish You More comes a moo-ving ode to the love between parent and child—now in board book The New York Times bestselling pair Tom Lichtenheld and Amy Krouse Rosenthal present udderly perfect expressions of affection to share between any cow and calf: I love you no matter your moo-d. I love giving you a big s-moo-ch. My love for you is as big as . . . a MOO-SE! With a universal message and warm, funny text that families will read and reread together, this exuberant book from two children’s book superstars at their best is a moo-velous choice for gifts year-round, especially for fans of I Love You to the Moon and Back and Guess How Much I Love You.",
+        "publisher": "Random House Books for Young Readers",
+        "publishedDate": "2017-05-30",
+        "description": "Transform an ordinary story into a silly one with stickers or found objects in this Mad Libs–esque adventure! For fans of Press Here and Tap the Magic Tree. New York Times bestselling author Amy Krouse Rosenthal (Uni the Unicorn and I Wish You More), Lea Redmond, and Sanne te Loo have created a picture book with a story that rhymes and very lovely illustrations. But, oops—they’ve left out some important pieces of the story . . . and it’s up to YOU to fill them in! Step 1: Grab any small object or pick stickers from the back of the book. Step 2: Place them on the blank spots as you read along. Step 3: Laugh at the crazy story you’ve just created. Step 4: Pick new items and start all over again! Story time will take on a new dimension of play as kids use the stickers or scamper in search of the most hilarious items to occupy the blank spaces in the text. The endlessly innovative Amy Krouse Rosenthal and Lea Redmond bring us a way-outside-the-box adventure in which readers get to bend the rules and feel a bit rebellious as they tamper with the ordinary and expected.",
         "industryIdentifiers": [
           {
             "type": "ISBN_13",
-            "identifier": "9781647001506"
+            "identifier": "9781101932308"
           },
           {
             "type": "ISBN_10",
-            "identifier": "1647001501"
+            "identifier": "1101932309"
           }
         ],
         "readingModes": {
-          "text": true,
-          "image": true
+          "text": false,
+          "image": false
         },
-        "pageCount": 52,
+        "pageCount": 33,
         "printType": "BOOK",
         "categories": [
           "Juvenile Fiction"
         ],
         "maturityRating": "NOT_MATURE",
         "allowAnonLogging": false,
-        "contentVersion": "1.5.3.0.preview.3",
+        "contentVersion": "0.2.0.0.preview.0",
         "panelizationSummary": {
           "containsEpubBubbles": false,
           "containsImageBubbles": false
         },
         "imageLinks": {
-          "smallThumbnail": "http://books.google.com/books/content?id=I7XSDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-          "thumbnail": "http://books.google.com/books/content?id=I7XSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          "smallThumbnail": "http://books.google.com/books/content?id=X5TEDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X5TEDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
         },
         "language": "en",
-        "previewLink": "http://books.google.com/books?id=I7XSDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Amy+Krouse+Rosenthal%22+%2Bintitle:%22I+Wish+You+More%22&hl=&cd=3&source=gbs_api",
-        "infoLink": "https://play.google.com/store/books/details?id=I7XSDwAAQBAJ&source=gbs_api",
-        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=I7XSDwAAQBAJ"
+        "previewLink": "http://books.google.com/books?id=X5TEDgAAQBAJ&printsec=frontcover&dq=inauthor:%22Amy+Krouse+Rosenthal%22+%2Bintitle:%22I+Wish+You+More%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=X5TEDgAAQBAJ&dq=inauthor:%22Amy+Krouse+Rosenthal%22+%2Bintitle:%22I+Wish+You+More%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/On_the_Spot.html?hl=&id=X5TEDgAAQBAJ"
       },
       "saleInfo": {
         "country": "US",
-        "saleability": "FOR_SALE",
-        "isEbook": true,
-        "listPrice": {
-          "amount": 8.09,
-          "currencyCode": "USD"
-        },
-        "retailPrice": {
-          "amount": 8.09,
-          "currencyCode": "USD"
-        },
-        "buyLink": "https://play.google.com/store/books/details?id=I7XSDwAAQBAJ&rdid=book-I7XSDwAAQBAJ&rdot=1&source=gbs_api",
-        "offers": [
-          {
-            "finskyOfferType": 1,
-            "listPrice": {
-              "amountInMicros": 8090000,
-              "currencyCode": "USD"
-            },
-            "retailPrice": {
-              "amountInMicros": 8090000,
-              "currencyCode": "USD"
-            },
-            "giftable": true
-          }
-        ]
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
       },
       "accessInfo": {
         "country": "US",
@@ -284,19 +262,17 @@
         "publicDomain": false,
         "textToSpeechPermission": "ALLOWED",
         "epub": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/Moo_Moo_I_Love_You-sample-epub.acsm?id=I7XSDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "isAvailable": false
         },
         "pdf": {
-          "isAvailable": true,
-          "acsTokenLink": "http://books.google.com/books/download/Moo_Moo_I_Love_You-sample-pdf.acsm?id=I7XSDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          "isAvailable": false
         },
-        "webReaderLink": "http://play.google.com/books/reader?id=I7XSDwAAQBAJ&hl=&source=gbs_api",
+        "webReaderLink": "http://play.google.com/books/reader?id=X5TEDgAAQBAJ&hl=&source=gbs_api",
         "accessViewStatus": "SAMPLE",
         "quoteSharingAllowed": false
       },
       "searchInfo": {
-        "textSnippet": "My love for you is as big as . . . a MOO-SE! With a universal message and warm, funny text that families will read and reread together, this exuberant book from two children’s book superstars at their best is a moo-velous choice for gifts ..."
+        "textSnippet": "But, oops—they’ve left out some important pieces of the story . . . and it’s up to YOU to fill them in! Step 1: Grab any small object or pick stickers from the back of the book. Step 2: Place them on the blank spots as you read along."
       }
     }
   ]
